@@ -28,7 +28,7 @@ main ul {
   list-style-type: square;
 }
 main ol {
-  list-style-type: upper-roman;
+  list-style-type: hiragana-iroha;
 }
  
 footer   {
